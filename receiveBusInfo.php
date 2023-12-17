@@ -5,7 +5,7 @@
  * @license Creative-Commons
  * 
  * 
- * pense con:
+ * 
  * https://www.dkbus.com/vehicules.php
  * https://www.dkbus.com/deviations.php
  * https://dkbus.transdev-hdf.fr/wp-content/uploads/2021/09/Plan-reseau-22-09-21.pdf
